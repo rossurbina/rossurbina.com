@@ -13,6 +13,7 @@ I looked at the global change in temperature, CO2 Emissions, and Disasters over 
 • **Key interesting finding:** Upper middle income countries today have the same CO2 emissions as high income countries in 1940
 
 **Links**
+
 • [Overview of Project: Insights & Data Process](https://rossurbina.github.io/Climate_Data/)
 
 • [Jupyter Notebook (Python) File](https://github.com/rossurbina/Climate_Data/blob/main/Climate_Data_Analysis.ipynb)
