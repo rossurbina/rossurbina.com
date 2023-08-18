@@ -26,6 +26,7 @@ I analyzed customer search data and bookings data for a sample of Airbnb Dublin 
 • **Key interesting finding:** The most amount of searches received by host capacity was 1 person with 44% of searches, and the second highest was 2 people with 33%
 
 **Links**
+
 • [Overview of Project: Insights & Data Process](https://rossurbina.github.io/Airbnb_Customer_Bookings_Analysis/)
 
 • [SQL File](https://github.com/rossurbina/Airbnb_Customer_Bookings_Analysis/blob/main/Airbnb_Data_Analysis.sql)
