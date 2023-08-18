@@ -5,8 +5,7 @@ Thank you for visiting my data analytics portfolio. Below are various data analy
 * TOC
 {:toc}
 
-# Climate Data Over Time
-**Tools Used:** Python & Tableau
+# Climate Data Over Time (Python & Tableau)
 
 I looked at the global change in temperature, CO2 Emissions, and Disasters over time. High income countries contribute by far the most to CO2 pollution, but the effects of temperature change and disasters are affected similarly across the globe. 
 
@@ -20,7 +19,10 @@ I looked at the global change in temperature, CO2 Emissions, and Disasters over 
 
 • [Tableau Dashboard](https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1)
 
-# Airb
-### **Tools Used:** Python & Tableau
+# Airbnb (SQL)
 
 alksdjflkadjsflasjdflk
+
+# Factors Impacting Suicide (Python)
+
+lkJSdfljasdlfjdsli
