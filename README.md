@@ -1,5 +1,3 @@
-# Data Analytics Portfolio
-
 Thank you for visiting my data analytics portfolio. Below are various data analytics projects that I have done, which include work in Python, SQL, and Tableau. 
 
 * TOC
