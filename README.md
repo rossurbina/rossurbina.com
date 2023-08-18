@@ -25,4 +25,13 @@ alksdjflkadjsflasjdflk
 
 # Factors Impacting Suicide (Python)
 
-lkJSdfljasdlfjdsli
+I looked at how various demographic factors impact suicide rates globally. Sex and age are by far the most influential factors, with men and and older individuals having a much higher likelihood of committing suicide. Additionally, I ran a regression analysis to predict a demographic's suicide rate based on various attributes and received a mean absolute deviation score of -13.
+
+• **Key interesting finding:** People in the 75+ age group have a suicide rate of 25 deaths per 100k individuals, almost twice as high as the 35-54 age group with 13 deaths per 100k individuals. 
+
+**Links**
+
+• [Overview of Project: Insights & Data Process](https://rossurbina.github.io/Factors_Impacting_Suicide_Rates/)
+
+• [Jupyter Notebook (Python) File](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Factors_Impacting_Suicide_Rates.ipynb)
+
