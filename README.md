@@ -33,7 +33,7 @@ I analyzed customer search data and bookings data for a sample of Airbnb Dublin 
 
 • [Tableau Dashboard](https://public.tableau.com/app/profile/ross.urbina/viz/AirbnbSearchesandBookings-SampleData/AirbnbSearchesBookingsData)
 
-# Factors Impacting Suicide (Python)
+# Factors Impacting Suicide Rates (Python)
 
 I looked at how various demographic factors impact suicide rates globally. Sex and age are by far the most influential factors, with men and and older individuals having a much higher likelihood of committing suicide. Additionally, I ran a regression analysis to predict a demographic's suicide rate based on various attributes and received a mean absolute deviation score of -13.
 
