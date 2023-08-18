@@ -19,7 +19,7 @@ I looked at the global change in temperature, CO2 Emissions, and Disasters over 
 
 • [Tableau Dashboard](https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1)
 
-# Airbnb (SQL & Tableau)
+# Airbnb Customer & Bookings Analysis (SQL & Tableau)
 
 I analyzed customer search data and bookings data for a sample of Airbnb Dublin data. This type of analysis could help a company like Airbnb 1) understand what their customers are searching for and 2) what gives the highest percentage likelihood of converting initial requests into bookings. 
 
