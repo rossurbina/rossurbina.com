@@ -19,6 +19,8 @@ I looked at the global change in temperature, CO2 Emissions, and Disasters over 
 
 • [Tableau Dashboard](https://public.tableau.com/app/profile/ross.urbina/viz/GlobalClimateVisualizationProject/Dashboard1)
 
+![alt text](https://github.com/rossurbina/rossurbina.github.io/blob/main/Climate_Data_Photo.jpg?raw=true)
+
 # Airbnb Customer & Bookings Analysis (SQL & Tableau)
 
 I analyzed customer search data and bookings data for a sample of Airbnb Dublin data. This type of analysis could help a company like Airbnb 1) understand what their customers are searching for and 2) what gives the highest percentage likelihood of converting initial requests into bookings. 
@@ -33,6 +35,8 @@ I analyzed customer search data and bookings data for a sample of Airbnb Dublin 
 
 • [Tableau Dashboard](https://public.tableau.com/app/profile/ross.urbina/viz/AirbnbSearchesandBookings-SampleData/AirbnbSearchesBookingsData)
 
+![alt text](https://github.com/rossurbina/rossurbina.github.io/blob/main/Airbnb_Data_Photo.jpg?raw=true)
+
 # Factors Impacting Suicide Rates (Python)
 
 I looked at how various demographic factors impact suicide rates globally. Sex and age are by far the most influential factors, with men and and older individuals having a much higher likelihood of committing suicide. Additionally, I ran a regression analysis to predict a demographic's suicide rate based on various attributes and received a mean absolute deviation score of -13.
@@ -45,3 +49,4 @@ I looked at how various demographic factors impact suicide rates globally. Sex a
 
 • [Jupyter Notebook (Python) File](https://github.com/rossurbina/Factors_Impacting_Suicide_Rates/blob/main/Factors_Impacting_Suicide_Rates.ipynb)
 
+![alt text](https://github.com/rossurbina/rossurbina.github.io/blob/main/Mental_health_Data_Photo.jpg?raw=true)
